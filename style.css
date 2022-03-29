@@ -5,7 +5,10 @@ color: red;
 text-align:center;
 padding: 30px;
 }
-
+h1.img {
+    max-width: 50%;
+    height: auto;
+  }
 form{
 text-align:center;
 }
